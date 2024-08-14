@@ -1,0 +1,43 @@
+Análisis comparativo en la construcción de viviendas economicas usando bloques de tierra comprimida y ladrillo king kong de 18 huecos
+
+--Propósito: Aportar conocimiento=>Tipo de inv. Básica
+		
+
+-Básica:
+	Al término-->Mi abono permite un mayor crecimiento de las cabalabazas de la especie plantus
+				-Mayor pulpa de la calabza
+				-Menor tiempo de desarrollo
+	
+	hipótesis Gral.-->Los bloques de tierra comprimida mejorarán la aplicación constructiva de viviendas economicas en la ciudad del cusco
+		H. Esp
+
+	Problema-->
+	La construcción de viviendas supone una inversión alta de capital la cual no es accesible para muchas personas sobre todo para aquellas
+	de bajos recursos. Actualmente, las construcciones se vienen realizando con ladrillos de 18 huecos. Este material presenta un conjunto de 
+	limitaciones las cuales son de diversas dimensiones.... A la par existen algunas alternativas 
+	
+
+		
+	Objetivo-->Demostrar que los bloques de tierra comprimida son mejorán la aplicación constructiva de viviendas economicas en la ciudad del cusco
+	[conclusión Gral]-->Los bloques de tierra comprimida mejoran [la aplicación constructiva] de viviendas economicas en la ciudad del cusco
+		C. Esp 1-->Los bloques de tierra comprimida mejoran la aplicación [fisico mecanico] de viviendas economicas en la ciudad del cusco
+			Con qué [metodología] estás demostrando--->Ant. 1 de marco teorico
+		C. Esp 2-->Los bloques de tierra comprimida mejoran la aplicación [ambiental] de viviendas economicas en la ciudad del cusco
+			Con qué [metodología] estás demostrando--->Ant. 2 de marco teorico
+		C. Esp 3-->Los bloques de tierra comprimida mejoran la aplicación [económico] de viviendas economicas en la ciudad del cusco
+			Con qué [metodología] estás demostrando--->Ant. 3 de marco teorico
+
+Metodología Gr:[M1+M2+M3](ladrillos de king kong)
+
+[la aplicación constructiva con BTC]=[fisico mecanico:X]+[ambiental:Y]+[económico:Z]
+Indicadores				-x1,x2,x3	 -y1,y2,y3	-z1,z2,z3
+Preguntas 				-Px1,Px2,Px3	-Py1,Py2,Py3	-Py1,Py2,Py3
+-----------------------
+BTC				King kong
+	x,x2,x3			
+	y1,y2,y3
+
+Casas construidas con bloque de kinkong 18 huecos
+-fisico mecanico-----BTC1
+-[ambiental] -----
+-[económico] -----BTC1
